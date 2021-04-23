@@ -64,7 +64,7 @@ def rss_monitor(bot, job):
 
 
 def init():
-    rss_dict['Reddit'] = 'https://www.reddit.com/r/funny/.rss'
+    rss_dict['Nyaa'] = 'https://nyaa.si/?page=rss'
     # Multiple feeds in single script is supported.  Please change the range below manually
     
     # test printing feed
